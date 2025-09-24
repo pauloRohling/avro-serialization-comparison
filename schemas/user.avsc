@@ -1,0 +1,39 @@
+{
+  "type": "record",
+  "name": "User",
+  "namespace": "schemas.user",
+  "fields": [
+    {
+      "name": "id",
+      "type": "string"
+    },
+    {
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "name": "email",
+      "type": "string"
+    },
+    {
+      "name": "age",
+      "type": "int"
+    },
+    {
+      "name": "biography",
+      "type": "string"
+    },
+    {
+      "name": "quote",
+      "type": "string"
+    },
+    {
+      "name": "active",
+      "type": "boolean"
+    },
+    {
+      "name": "created_at",
+      "type": "long"
+    }
+  ]
+}
