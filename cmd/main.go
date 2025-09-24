@@ -1,8 +1,8 @@
 package main
 
 import (
+	"avro-serialization-comparison/internal/user"
 	"encoding/json"
-	"go-avro-example/internal/user"
 	"os"
 	"time"
 

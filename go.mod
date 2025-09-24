@@ -1,4 +1,4 @@
-module go-avro-example
+module avro-serialization-comparison
 
 go 1.24.5
 
